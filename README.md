@@ -1,7 +1,7 @@
-✊ **Rock, Paper, Scissors Game (Python)**
+✊ **Stone, Paper, Scissors Game (Python)**
 
 📝 **Description**
-A fun, terminal-based Rock, Paper, Scissors game written in Python!
+A fun, terminal-based Stone, Paper, Scissors game written in Python!
 Play against the computer and see if you can beat the machine. The game is simple, interactive, and perfect for quick matches. This project is built for Jupyter Notebooks and follows a straightforward coding style — great for learning Python basics!
 
 🛠️ **Features**
@@ -11,15 +11,15 @@ Play against the computer and see if you can beat the machine. The game is simpl
 - Replay Option: Easily start a new round without restarting the notebook.
     
 🧩 **How to Play**
-- Enter your choice: rock, paper, or scissors.
+- Enter your choice: stone, paper, or scissors.
 - The computer makes a random choice.
 - The result is displayed: Win, Lose, or Tie.
 - After each round, choose to play again or exit.
 
 🏆 **Winning Rules**
-- Rock beats Scissors (crushes it)
+- Stone beats Scissors (crushes it)
 - Scissors beat Paper (cuts it)
-- Paper beats Rock (wraps it)
+- Paper beats stone (wraps it)
 
 🏅 **Author** 👨‍💻 **Shibasish Roy Sarkar**
 - GitHub: https://github.com/ShibasishRoySarkar
